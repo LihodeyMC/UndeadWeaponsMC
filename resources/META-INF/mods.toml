@@ -1,0 +1,26 @@
+modLoader="javafml"
+loaderVersion="[47,)"
+license="MIT License"
+
+[[mods]]
+modId="undeadweapons"
+version="1.0.0"
+displayName="UndeadWeapons"
+displayURL="https://mcreator.net"
+logoFile="logo.png"
+credits="Created using mod maker MCreator - https://mcreator.net/about"
+authors="Lihodey, MCreator"
+description="Add 5 new undead weapons"
+
+# Start of user code block mod configuration
+# End of user code block mod configuration
+
+[[dependencies.undeadweapons]]
+    modId="minecraft"
+    mandatory=true
+    versionRange="[1.20.1]"
+    ordering="NONE"
+    side="BOTH"
+
+
+

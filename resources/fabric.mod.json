@@ -1,0 +1,35 @@
+{
+  "schemaVersion": 1,
+  "id": "undeadweapons",
+  "version": "1.0.0",
+  "name": "UndeadWeapons",
+  "description": "Add 5 new undead weapons",
+  "authors": [
+    "Lihodey, MCreator"
+  ],
+  "contact": {
+    "homepage": "https://mcreator.net",
+    "sources": ""
+  },
+  "license": "MIT License",
+  "icon": "assets/undeadweapons/icon.png",
+  "accessWidener": "undeadweapons.accesswidener",
+  "environment": "*",
+  "entrypoints": {
+    "main": [
+      "vpack.undeadweapons.UndeadweaponsMod"
+    ],
+    "client": [
+      "vpack.undeadweapons.ClientInit"
+    ]
+  },
+  "depends": {
+    "fabricloader": ">=0.14.21",
+    "fabric": "*",
+    "minecraft": "~1.20",
+    "java": ">=17"
+  },
+  "mixins": [
+    "undeadweapons.mixins.json"
+  ]
+}
