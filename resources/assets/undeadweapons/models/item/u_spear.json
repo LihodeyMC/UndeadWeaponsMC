@@ -1,7 +1,0 @@
-{
-  "parent": "undeadweapons:custom/spear",
-  "textures": {
-    "1": "undeadweapons:item/speartexture",
-    "particle": "undeadweapons:item/spearmain"
-  }
-}
