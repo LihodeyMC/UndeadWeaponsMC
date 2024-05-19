@@ -1,0 +1,7 @@
+{
+  "parent": "undeadweapons:custom/sword",
+  "textures": {
+    "0": "undeadweapons:item/swordtexture",
+    "particle": "undeadweapons:item/swordmain"
+  }
+}

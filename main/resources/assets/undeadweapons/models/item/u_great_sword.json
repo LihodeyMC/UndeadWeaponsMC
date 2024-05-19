@@ -1,0 +1,7 @@
+{
+  "parent": "undeadweapons:custom/greatsword",
+  "textures": {
+    "1": "undeadweapons:item/greatswordtexture",
+    "particle": "undeadweapons:item/greatswordmain"
+  }
+}

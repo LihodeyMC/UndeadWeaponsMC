@@ -1,0 +1,7 @@
+{
+  "parent": "undeadweapons:custom/scythe",
+  "textures": {
+    "1": "undeadweapons:item/scythetexture",
+    "particle": "undeadweapons:item/scythemain"
+  }
+}
