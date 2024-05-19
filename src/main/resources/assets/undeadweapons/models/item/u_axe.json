@@ -1,7 +1,0 @@
-{
-  "parent": "undeadweapons:custom/axe",
-  "textures": {
-    "0": "undeadweapons:item/axe_texture",
-    "particle": "undeadweapons:item/axemain"
-  }
-}
